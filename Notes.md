@@ -1,6 +1,6 @@
 # GOLANG
 
-### Conceptos basicos (Varibles, Ciclos, Funciones, Rutinas, Compilacion, Classes, Herencia, Interfaces)
+### Conceptos basicos (Varibles, Ciclos, Funciones, Rutinas, Compilacion, Classes, Herencia, Interfaces, Arrays)
 ### Iniciar servidor
 ### Servidor HTML
 ### Parametros por URL
