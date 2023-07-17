@@ -1,7 +1,10 @@
 # GOLANG
 
-### Hello World
-### Conceptos basicos (Varibles, Ciclos, Funciones, Rutinas, Compilacion, Classes, Herencia, Interfaces, Arrays)
+- [x] Hello Go!
+- [x] Variabes y constantes
+- [x] Funciones
+### Ciclos
+### Conceptos basicos (Rutinas, Compilacion, Classes, Herencia, Interfaces, Arrays)
 ### Iniciar servidor
 ### Servidor HTML
 ### Parametros por URL
