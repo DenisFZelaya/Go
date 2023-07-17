@@ -3,7 +3,8 @@
 - [x] Hello Go!
 - [x] Variabes y constantes
 - [x] Funciones
-- [ ] Ciclos
+- [x] Ciclos
+- [x] Condicionales
 - [ ] Iniciar servidor HTTP
 - [ ] Servidor HTML
 - [ ] Parametros por URL
