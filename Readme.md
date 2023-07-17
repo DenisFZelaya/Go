@@ -5,8 +5,8 @@
 - [x] Funciones
 - [x] Ciclos
 - [x] Condicionales
-- [ ] Iniciar servidor HTTP
-- [ ] Servidor HTML
+- [x] Iniciar servidor HTTP
+- [x] Servidor HTML
 - [ ] Parametros por URL
 - [ ] Hello World Rest
 - [ ] Parametros por Body
