@@ -49,7 +49,7 @@
 - [] Estrategias de despliegue
 - [] Servicio de descubrimiento
 - [] Políticas de reintentos y circuit breaker
-### APIs en tiempo real: Si necesitas soporte en tiempo real, podrías considerar el uso de tecnologías como WebSockets o Server-Sent Events.
+- [] APIs en tiempo real: Si necesitas soporte en tiempo real, podrías considerar el uso de tecnologías como WebSockets o Server-Sent Events.
 - [] Tracing y observabilidad: Herramientas de tracing como Jaeger o OpenTracing pueden ser útiles para rastrear y entender el flujo de las solicitudes a través de tu aplicación y entre servicios.
 - [] Manejo de long polling o HTTP/2 Server Push:
 - [] Manejo de eventos
