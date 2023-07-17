@@ -45,7 +45,6 @@ func main() {
 
 	r.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
 
-
 	fmt.Println("Starting HTTP Server")
 	http.ListenAndServe(":8080", router)
 
